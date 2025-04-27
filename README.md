@@ -1,6 +1,7 @@
+YouTube Downloader GUI
+
 ![image](https://github.com/user-attachments/assets/3ca1c9c4-269c-40fb-a7ae-226c99fbac54)
 
-YouTube Downloader GUI
 A simple, lightweight, and powerful YouTube Downloader application with a graphical interface, built using Python, Tkinter, and yt_dlp.
 
 Features:
