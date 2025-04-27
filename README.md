@@ -25,5 +25,3 @@ A simple, lightweight, and powerful YouTube Downloader application with a graphi
 -tkinter (comes pre-installed with Python)
 
 -Standard libraries: threading, urllib, os, io
-
-Or... You can just use the binary file one.
