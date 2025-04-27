@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/3ca1c9c4-269c-40fb-a7ae-226c99fbac54)
+
 YouTube Downloader GUI
 A simple, lightweight, and powerful YouTube Downloader application with a graphical interface, built using Python, Tkinter, and yt_dlp.
 
@@ -5,9 +7,6 @@ Features:
 -Download YouTube videos by pasting the video URL.
 -Choose download folder using a file dialog.
 -Display video thumbnail preview.
-
-Screenshots:
-![image](https://github.com/user-attachments/assets/3ca1c9c4-269c-40fb-a7ae-226c99fbac54)
 
 Requirements:
 Python 3.x
